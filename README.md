@@ -13,3 +13,6 @@ Untested Harware Schematics / PCB design found at:
 * Exposes Controls via MQTT
 * Uses an ESP32 Microcontroller
 * Communication is done via an MAX485 ModuleSauna control unitSauna control unit
+
+Example of the MQTT view from iobroker:
+![iobroker view](/img/iobroker.png)
